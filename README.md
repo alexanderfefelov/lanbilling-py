@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/alexanderfefelov/lanbilling-py.git
-$ cd lanbilling
+$ cd lanbilling-py
 $ python setup.py install
 ```
 
